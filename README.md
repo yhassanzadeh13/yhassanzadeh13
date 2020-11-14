@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## About Me: 
 I have a Ph.D. in Computer Science and Engineering expertise in architecting Distributed Systems, Blockchains, Cryptography, Privacy, and Security. I am currently working as a Senior Distributed Systems Engineer at [DapperLabs](https://www.dapperlabs.com/) in Vancouver, Canada, developing a next generation blockchain system called [Flow](https://www.onflow.org/). Before joining DapperLabs, I was a joint research and teaching assistant at [Cryptography, Privacy, and Security](https://crypto.ku.edu.tr) and [Distributed Systems and Reliable Networks]() laboratories.
 
+**Reviewer:** I _volunteerly_ serve as the reviewer to some prestigious conferences and journals in distributed systems and cryptography. Please find the list of some of my [verified reviews here](https://publons.com/researcher/3295196/yahya-hassanzadeh-nazarabadi/). 
+
 ## Academics: 
 I did my Ph.D. at [Koç University, Istanbul, Turkey](ku.edu.tr) at 2019, my thesis title was "SEALA: Secure and Efficient Availability and Locality Aware P2P Cloud Storage". Prior to that I graduated from [Ferdowsi University, Mashhad, Iran](um.ac.ir) in BSc of Computer Engineering in 2013. My BSc thesis title was "Dual Sensor Platform Robot". 
 
