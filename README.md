@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yhassanzadeh13&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhassanzadeh13&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
 My Homepage: [yhassanzadeh13.github.io](https://yhassanzadeh13.github.io/)
