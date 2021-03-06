@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yhassanzadeh13&theme=default&show_icons=true)
 My Homepage: [yhassanzadeh13.github.io](https://yhassanzadeh13.github.io/)
